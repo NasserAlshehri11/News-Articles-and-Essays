@@ -1,7 +1,14 @@
-# News-Articles-and-Essays
-NLP (Topic Modeling and Clustering)
+ # NLP
+T5 Project proposal
 
-Topic modeling of the news based on its content and title.
+Topic Modeling and Clustering 
+
+News-Articles-and-Essays
+
+# Students:
+* Nasser Alshehri
+* Abdullah Bushnag
+* Abdulrhman Alqurashi
 
 # OVERVIEW
 News come in different formats, different types and different categories. Here we attempt to use Topic modeling and Clustering to get answers on what each content containt based on its content and then we try to do it based only on its title.
