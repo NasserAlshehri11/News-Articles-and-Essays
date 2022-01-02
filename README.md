@@ -1,9 +1,7 @@
  # NLP
 T5 Project proposal
 
-Topic Modeling and Clustering 
-
-News-Articles-and-Essays
+Topic Modeling and Clustering of News-Articles-and-Essays
 
 # Students:
 * Nasser Alshehri
